@@ -19,5 +19,3 @@ Elk 汉化文档
 
 4.logo修改：（1）替换文件在该目录下/usr/share/kibana/src/ui/public/assets/favicons （2）修改文件在该文件下/usr/share/kibana/src/ui/views/chrome.jade
 
-
-
